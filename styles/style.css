@@ -342,9 +342,6 @@ h2 {
   width: 100%;
   border-radius: 24px;
   background: #53389e;
-  background-image: url(/images/Image\ \(21\).png);
-  background-repeat: no-repeat;
-  background-position: right;
   flex-wrap: wrap;
 }
 
@@ -355,6 +352,11 @@ h2 {
   max-width: 544px;
   width: 100%;
   padding: 64px;
+}
+
+.girlImage {
+  border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;
 }
 
 .starsDiv {
